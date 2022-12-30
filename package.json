@@ -1,13 +1,13 @@
 {
-  "homepage":"https://amar-husika.github.io/random-ayah",
+  "homepage": "https://amar-husika.github.io/random-ayah",
   "name": "random-ayah-generator",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --mode=development --open --hot",
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "webpack --mode=production"
   },
   "keywords": [],
