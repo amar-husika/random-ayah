@@ -1,0 +1,10 @@
+body{
+    background-color: #3498db;;
+}
+.test{
+    height: 100vh;
+}
+.box{
+    background-color: white;
+    height: fit-content;
+}
