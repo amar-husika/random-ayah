@@ -1,3 +1,2 @@
 # Random Ayah Generator
-Ayaat are loaded from an online API.
-Made in ReactJS.
+Online Quran [quran.com](https://quran.com)
