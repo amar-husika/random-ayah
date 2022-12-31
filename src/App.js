@@ -39,7 +39,8 @@ const App = () => {
   const tweetURL='https://twitter.com/intent/tweet';
 
   return (
-    
+    <>
+    <h1>Random Ayah Generator</h1>
     <div className="test d-flex align-items-center justify-content-center">
       <div id="quote-box" className="col-6 box p-5 rounded">
         <div className="mb-4">
@@ -57,6 +58,7 @@ const App = () => {
         </div>
       </div>
     </div>
+    </>
   );
 };
 
